@@ -1,0 +1,20 @@
+{
+    "reads": [
+        { 
+            "class": "File",
+            "path": "sample_1.fastq.gz",
+            "format": "edam:format_1931"
+        },
+        { 
+            "class": "File",
+            "path": "sample_2.fastq.gz",
+            "format": "edam:format_1931"
+        }    
+    ],
+    "genome":
+    {
+        "class": "File",
+        "path": "MN908947_3_Wuhan-Hu-1.fasta",
+        "format": "edam:format_1929"
+    }
+}
